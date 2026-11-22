@@ -8,7 +8,8 @@ import {
   ArrowUpRight,
   TrendingUp,
   Clock,
-  Calendar as CalendarIcon
+  Calendar as CalendarIcon,
+  MapPin
 } from 'lucide-react';
 import { DashboardStats, Lecture } from '../types';
 import { cn } from '../lib/utils';

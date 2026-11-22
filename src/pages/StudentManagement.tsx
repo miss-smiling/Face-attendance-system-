@@ -11,7 +11,8 @@ import {
   UserPlus,
   Loader2,
   CheckCircle2,
-  AlertCircle
+  AlertCircle,
+  ShieldCheck
 } from 'lucide-react';
 import { Student } from '../types';
 import { cn } from '../lib/utils';
