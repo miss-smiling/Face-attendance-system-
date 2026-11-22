@@ -1,0 +1,6 @@
+{
+  "name": "Omniscan AI - Smart Attendance System",
+  "description": "Professional biometrics-driven attendance platform with real-time face recognition, anti-spoofing, and advanced analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
